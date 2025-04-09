@@ -1,0 +1,13 @@
+F:/Cs/StarWar/StarWar/build/Qt_6_8_2_MinGW_64_bit_1be03b-Debug/CMakeFiles/StarWar.dir
+F:/Cs/StarWar/StarWar/build/Qt_6_8_2_MinGW_64_bit_1be03b-Debug/CMakeFiles/StarWar_lupdate.dir
+F:/Cs/StarWar/StarWar/build/Qt_6_8_2_MinGW_64_bit_1be03b-Debug/CMakeFiles/update_translations.dir
+F:/Cs/StarWar/StarWar/build/Qt_6_8_2_MinGW_64_bit_1be03b-Debug/CMakeFiles/StarWar_lrelease.dir
+F:/Cs/StarWar/StarWar/build/Qt_6_8_2_MinGW_64_bit_1be03b-Debug/CMakeFiles/release_translations.dir
+F:/Cs/StarWar/StarWar/build/Qt_6_8_2_MinGW_64_bit_1be03b-Debug/CMakeFiles/edit_cache.dir
+F:/Cs/StarWar/StarWar/build/Qt_6_8_2_MinGW_64_bit_1be03b-Debug/CMakeFiles/rebuild_cache.dir
+F:/Cs/StarWar/StarWar/build/Qt_6_8_2_MinGW_64_bit_1be03b-Debug/CMakeFiles/list_install_components.dir
+F:/Cs/StarWar/StarWar/build/Qt_6_8_2_MinGW_64_bit_1be03b-Debug/CMakeFiles/install.dir
+F:/Cs/StarWar/StarWar/build/Qt_6_8_2_MinGW_64_bit_1be03b-Debug/CMakeFiles/install/local.dir
+F:/Cs/StarWar/StarWar/build/Qt_6_8_2_MinGW_64_bit_1be03b-Debug/CMakeFiles/install/strip.dir
+F:/Cs/StarWar/StarWar/build/Qt_6_8_2_MinGW_64_bit_1be03b-Debug/CMakeFiles/StarWar_autogen_timestamp_deps.dir
+F:/Cs/StarWar/StarWar/build/Qt_6_8_2_MinGW_64_bit_1be03b-Debug/CMakeFiles/StarWar_autogen.dir

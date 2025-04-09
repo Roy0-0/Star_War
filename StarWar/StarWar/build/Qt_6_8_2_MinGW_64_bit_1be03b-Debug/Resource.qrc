@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resource/bullet_01.png</file>
+        <file>Resource/bullet_02.png</file>
+        <file>Resource/collision.wav</file>
+        <file>Resource/enemy.png</file>
+        <file>Resource/enemy02.png</file>
+        <file>Resource/enemy2_arrive.wav</file>
+        <file>Resource/Map.jpg</file>
+        <file>Resource/mapback.png</file>
+        <file>Resource/me.png</file>
+        <file>Resource/me_shoot.wav</file>
+        <file>Resource/Plane01.png</file>
+        <file>Resource/Plane03.png</file>
+        <file>Resource/Plane05.png</file>
+    </qresource>
+</RCC>
