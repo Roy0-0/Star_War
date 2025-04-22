@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resource/bullet_01.png</file>
+        <file>Resource/bullet_02.png</file>
+        <file>Resource/collision.wav</file>
+        <file>Resource/enemy02.png</file>
+        <file>Resource/enemy2_arrive.wav</file>
+        <file>Resource/mapback.png</file>
+        <file>Resource/me_shoot.wav</file>
+        <file>Resource/Plane01.png</file>
+        <file>Resource/Plane03.png</file>
+        <file>Resource/Plane05.png</file>
+        <file>Resource/jet.ico</file>
+        <file>Resource/bomb-1.png</file>
+        <file>Resource/bomb-2.png</file>
+        <file>Resource/bomb-3.png</file>
+        <file>Resource/bomb-4.png</file>
+        <file>Resource/bomb-5.png</file>
+        <file>Resource/bomb-6.png</file>
+        <file>Resource/bomb-7.png</file>
+        <file>Resource/bg.wav</file>
+    </qresource>
+</RCC>
